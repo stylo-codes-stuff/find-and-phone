@@ -1,5 +1,5 @@
 ## Phone and Find: Wardialing and phone information gathering software
-An easy to use wardialing software and number information that can return
+An easy to use wardialing software and number information gatherer that can return
 For people that i allowed to help me with this project links to documentation for the used libraries and ddls are included in notes.txt
 
 # Features
