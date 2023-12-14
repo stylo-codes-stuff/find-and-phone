@@ -3,9 +3,9 @@ An easy to use wardialing software and number information gatherer that can retu
 For people that i allowed to help me with this project links to documentation for the used libraries and ddls are included in notes.txt
 
 # Features
-data about phone numbers such as country, Region code and line type
-the ability to contribute to our database with a vercel deployment
-the ability to scan phone numbers for connected devices such as pagers and fax machines
+data about phone numbers such as country, Region code and line type </br>
+the ability to contribute to our database with a vercel deployment </br>
+the ability to scan phone numbers for connected devices such as pagers and fax machines </br>
 
 # Notes
 due to find and phones current use of windows fax com dlls the program can only run on windows devices or VMs
