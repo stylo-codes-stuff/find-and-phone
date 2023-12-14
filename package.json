@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "google-libphonenumber": "^3.2.33",
-    "twilio": "^4.19.3"
-  }
-}
