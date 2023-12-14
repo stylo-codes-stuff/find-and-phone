@@ -1,2 +1,3 @@
 https://github.com/google/libphonenumber
 https://spyoung.com/post/pyfax/
+https://learn.microsoft.com/en-us/previous-versions/windows/desktop/fax/-mfax-faxserver-connect-vb
