@@ -4,7 +4,6 @@ For people that i allowed to help me with this project links to documentation fo
 
 # Features
 The ability to istantly obtain data about phone numbers such as country, Region code and line type. </br>
-The ability to contribute to our database with a vercel deployment. </br>
 The ability to scan phone numbers for connected devices such as pagers and fax machines. </br>
 
 # Notes
